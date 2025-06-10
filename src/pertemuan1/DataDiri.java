@@ -7,6 +7,7 @@ public class DataDiri {
             System.out.println ("NPM   : 2310010667");
             System.out.println ("Hobi  : Futsal");
             
-
+            
+            DataDiri datadiri2 = new DataDiri();
 }
 }
