@@ -12,4 +12,4 @@ public class main {
             p1.tampilkanInfo();
         }
     
-}x
+}
